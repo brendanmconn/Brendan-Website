@@ -11,7 +11,7 @@ module.exports = {
       },
       colors: {
         homepageIcon: "#225da5",
-        accent: colors.fuchsia["400"]
+        accent: "#3670ee"
       },
       zIndex: {
         '-10': '-10',
